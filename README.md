@@ -1,7 +1,7 @@
 # Interactive Quiz Application
 
 A full-stack quiz application built with Spring Boot and HTML/CSS/JavaScript that allows users to take timed quizzes with multiple-choice questions.
-
+There is a problem while showing question text help me when Youre ready to collaborate with this......
 ## 📸 Application Preview
 
 ### Welcome Screen
