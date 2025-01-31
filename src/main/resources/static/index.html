@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="instructions">
+    <h2>Welcome to the Quiz</h2>
+    <p>Instructions:</p>
+    <ul>
+        <li>You will be given multiple-choice questions.</li>
+        <li>Select the correct answer by clicking on the option.</li>
+        <li>Each question has a time limit of 30 seconds.</li>
+        <li>Your score will be displayed at the end.</li>
+    </ul>
+    <button id="start-btn">Start Quiz</button>
+</div>
+
+<div id="quiz-container" class="hidden">
+    <h2 id="question-text"></h2>
+    <div id="options"></div>
+</div>
+
+<div id="result" class="hidden">
+    <h2>Quiz Completed!</h2>
+    <p id="score"></p>
+    <button onclick="restartQuiz()">Restart Quiz</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
