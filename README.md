@@ -10,7 +10,7 @@ There is a problem while showing question text help me when Youre ready to colla
 
 ### Quiz Interface
 ![Screenshot 2025-01-31 123042](https://github.com/user-attachments/assets/75527082-83de-4d0d-aa43-4bd622c7c61c)
-*Quiz interface showing question, timer, and multiple choice options*
+*Quiz interface showing question,there is a problem while showing question text, timer, and multiple choice options*
 
 ### Results Display
 ![Screenshot 2025-01-31 123104](https://github.com/user-attachments/assets/9ee50df7-a806-48df-a85e-27bd9964ab61)
